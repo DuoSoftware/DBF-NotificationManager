@@ -18,6 +18,7 @@
   "homepage": "https://github.com/DuoSoftware/DBF-NotificationManager#readme",
   "dependencies": {
     "config": "^3.0.0",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "validator": "^10.9.0"
   }
 }
